@@ -6,6 +6,7 @@ namespace Activity6
     {
         static void Main()
         {
+            #newchangehaha
             Console.WriteLine("==================================");
             Console.WriteLine("    STUDENT SCHOLARSHIP SYSTEM    ");
             Console.WriteLine("==================================");
